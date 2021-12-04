@@ -1,0 +1,24 @@
+{
+  "name": "visualix",
+  "displayName": "VISU\u039bLIX 0.2",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsde/visualix.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "VISU\u039bLIX 0.2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/visualix-color-theme.json"
+      }
+    ]
+  }
+}
