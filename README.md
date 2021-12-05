@@ -32,9 +32,7 @@ Go to the *releases* tab or [click here](https://github.com/nsde/visualix/releas
   ```
   
 - **Manual installation using VSIX file:**
-  If nothing works, try this. You may also need to change the version to match the one in the repository.
-<<<<<<< HEAD
-  
+  If nothing works, try this. You may also need to change the version to match the one in the repository.  
   The following code will download and install the extension on Linux.
 
   ```
@@ -60,9 +58,3 @@ Much better contrast!
 
 ### Version 0.0.2
 ![Screenshot](https://cdn.discordapp.com/attachments/870066876192026704/916826217951424522/pOvgCdAQ-commandPalette.png)
-=======
-  ```
-  wget https://github.com/nsde/visualix/blob/main/visualix-0.0.2.vsix?raw=true
-  code --install-extension visualix-0.0.2.vsix
-  ```
->>>>>>> ad10e4ff62f91c376935d28b29b6017de6a1d8bf
