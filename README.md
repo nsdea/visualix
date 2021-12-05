@@ -2,8 +2,8 @@ VISUALIX Theme by ONLIX/nsde
 
 ***
 
-### New Version: **0.0.3 » 5th Dec 2021**
-Make sure to use the newest version 0.0.3 for the installation to work.
+### New Version: **0.0.4 / 0.0.3 FIX » 5th Dec 2021**
+Make sure to use the newest version for the installation to work.
 
 # VISUΛLIX
 A simple, yet modern and dark style with less borders and more saturated colors.
