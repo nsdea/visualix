@@ -6,7 +6,7 @@ A simple, yet modern and dark style with less borders and more saturated colors.
 ![Screenshot](https://cdn.discordapp.com/attachments/870066876192026704/916826217951424522/pOvgCdAQ-commandPalette.png)
 
 ## Installation
-### ✨ [Download](https://marketplace.visualstudio.com/items?itemName=vsx-theme.visualix&ssr=false#overview) `ext install vsx-theme.visualix`
+### ✨ [Download](https://marketplace.visualstudio.com/items?itemName=vsx-theme.visualix&ssr=false#overview) ID: `vsx-theme.visualix`
 This link will take you to the official Visual Studio Code marketplace, in which you can view the extension.
 
 ### 📜 [Theme JSON](https://raw.githubusercontent.com/nsde/visualix/main/visualix-color-theme.json)
