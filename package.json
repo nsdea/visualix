@@ -2,8 +2,8 @@
   "name": "visualix",
   "icon": "neostyx.jpg",
   "publisher": "vsx-theme",
-  "displayName": "VISU\u039bLIX 0.2",
-  "version": "0.0.2",
+  "displayName": "VISUALIX Theme",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.58.0"
   },
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "VISU\u039bLIX 0.2",
+        "label": "VISU\u039bLIX 0.0.3",
         "uiTheme": "vs-dark",
-        "path": "./themes/visualix-color-theme.json"
+        "path": "visualix-color-theme.json"
       }
     ]
   }
